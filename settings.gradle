@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Project PRM392"
-include(":app")
- 
+rootProject.name = "PRM392Project8"
+include ':app'
