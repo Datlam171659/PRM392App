@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PRM392Project8</string>
+    <string name="app_logo">Wecare logo</string>
+    <string name="login_intro">Hoàn thành việc đăng nhập để bắt đầu</string>
+    <string name="signup_intro">Một tài khoản cá nhân để Wecare ghi nhớ bạn</string>
+    <string name="introduce">Wecare chào bạn</string>
+
 </resources>
